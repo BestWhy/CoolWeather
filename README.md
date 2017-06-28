@@ -1,2 +1,2 @@
 # CoolWeather
-第一行代码案例
+简单的天气App
