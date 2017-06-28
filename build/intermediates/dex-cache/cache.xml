@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/why/Develop/WorkSpace/CoolWeather/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/why/Develop/WorkSpace/CoolWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ad2803d415e97342c0434337d3c3c5ad16366f1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/why/Develop/WorkSpace/CoolWeather/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86da02a4b7b09979de19dc28034e33e316ee8042">
+        <dex dex="/Users/why/Develop/WorkSpace/CoolWeather/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8a3cf9e58a01b6e0a4e69cce1998ffe1a864f5ea/classes.dex" />
+    </item>
+
+</items>
